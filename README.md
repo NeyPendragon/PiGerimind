@@ -10,7 +10,8 @@
 
 # Página principal
 <p align="center">
-   
+      <img alt="projeto form login" src="assets/img/pagina-inicial-app-germind.png" width="60%">
+
 </p>
 
 ## 🚀 Tecnologias
