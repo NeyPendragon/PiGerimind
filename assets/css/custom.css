@@ -1,0 +1,60 @@
+.image-size{
+    width: 150px;
+    height: 150px;
+}
+.mt-40{
+    margin-top: 40px;
+}
+.cartao{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    
+}
+.img-cartao{
+    width: 100px;
+    height: auto;
+    border-radius: 8px;
+}
+.titulo-cartao{
+    font-size: 20px;
+    color: blue;
+}
+.titulo-cartao a {
+    text-decoration: none;
+}
+
+.image-circle{
+    width: 200px;
+    height: 200px;
+    border: solid blue 4px ;
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.image-circle img{
+    width: 60%;
+    height: auto;
+}
+.circle-dashed{
+    width: 180px;
+    height: 180px;
+    border: dashed blue 3px;
+    border-radius: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.circle-img{
+    border-radius: 100px;
+}
+a{
+    text-decoration: none;
+}

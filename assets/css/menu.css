@@ -1,0 +1,29 @@
+.menu{
+    width: 100%;
+    height: 100px;
+    padding-top: 10px;
+}
+
+
+
+.material-symbols-outlined.md-60{ font-size: 40px; }
+
+.folga{
+    height: 200px;
+    width: 100%;
+}
+.logo-login{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+.logo-login img{
+    width: 400px;
+    height: auto;
+}
+
+.logo-form{
+    padding-top: 20px;
+    margin-top: 30px;
+   
+}
