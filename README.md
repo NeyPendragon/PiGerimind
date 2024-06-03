@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Uma página de gestão de medicamentos para idosos.
 
-[Visite o projeto online] : 
+
 
 
 
